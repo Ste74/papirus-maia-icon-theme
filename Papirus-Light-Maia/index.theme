@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Papirus-Light-Maia
-Comment=Papirus Maia icon theme for Breeze
+Comment=Papirus Maia icon theme
 Inherits=Papirus-Light,Papirus,breeze-dark,gnome,hicolor
 
 Example=folder

@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Papirus-Maia
-Comment=Papirus Maia icon theme for Arc/Arc Darker
+Comment=Papirus Maia icon theme
 Inherits=Papirus,breeze,gnome,hicolor
 
 Example=folder

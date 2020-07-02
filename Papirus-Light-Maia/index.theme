@@ -81,14 +81,10 @@ Type=Fixed
 [64x64/places]
 Context=Places
 Size=64
-MinSize=64
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [64x64@2x/places]
 Context=Places
 Size=64
 Scale=2
-MinSize=64
-MaxSize=512
-Type=Scalable
+Type=Fixed
